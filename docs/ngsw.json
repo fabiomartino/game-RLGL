@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1636068364148,
+  "timestamp": 1636069659359,
   "index": "https://fabiomartino.github.io/game-rlgl/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://fabiomartino.github.io/game-rlgl/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://fabiomartino.github.io/game-rlgl/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://fabiomartino.github.io/game-rlgl/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://fabiomartino.github.io/game-rlgl/index.html": "3c4680e4b74b53ed8e03547e78a7f4b5bcf5c108",
+    "https://fabiomartino.github.io/game-rlgl/index.html": "b08be91194293ee368be7c5b8578d585f24aaa29",
     "https://fabiomartino.github.io/game-rlgl/main.js": "885624b9a8cdc04d566003dce52873dbc9853ac0",
     "https://fabiomartino.github.io/game-rlgl/manifest.webmanifest": "bafd0829478d506ccaa1a44beca864e99fc3fc52",
     "https://fabiomartino.github.io/game-rlgl/polyfills.js": "7545c336d299e0f5005b369eeaa5b2b1338b6f23",
