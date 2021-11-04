@@ -1,0 +1,21 @@
+<app-navbar></app-navbar>
+<div fxLayout="column" fxLayoutAlign="space-between stretch" fxLayoutGap="50px">
+
+  <h1 fxLayout="row" fxFill fxLayoutAlign="center center">High Score: {{ maxScore }}</h1>
+
+  <app-semaphore [fillColor]="timedColor"></app-semaphore>
+
+  <h2 fxLayout="row" fxFill fxLayoutAlign="center center">Score: {{ score }}</h2>
+
+  <div fxLayout="row" fxFill fxLayoutAlign="center center">
+    <button mat-raised-button class="material-cust-button" (click)="stepButtonLeft()">
+      <mat-icon>switch_right</mat-icon>
+      LEFT
+    </button>
+    <button mat-raised-button class="material-cust-button" (click)="stepButtonRight()">
+      <mat-icon>switch_left</mat-icon>
+      RIGHT
+    </button>
+  </div>
+
+</div>

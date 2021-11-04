@@ -1,0 +1,34 @@
+mat-card:not([class*=mat-elevation-z0]){
+  background-color: #101010;
+  color: #ffffff;
+  border: 55px solid #101010;
+  box-shadow: none;
+}
+
+mat-card:not([class*=mat-elevation-z0]):hover{
+  box-shadow: none;
+}
+
+mat-form-field {
+  background-color: #101010;
+  color: #ffffff;
+  display: block;
+}
+
+.logo-class {
+  margin-top: 50px;
+  width: 110px;
+  height: 110px;
+
+  &::ng-deep .mat-button-wrapper {
+    line-height: 14px;
+    padding: 0;
+
+    .mat-icon {
+      font-size: 72px;
+      padding-right: 48px;
+      padding-bottom: 48px;
+      color: #101010;
+    }
+  }
+}
